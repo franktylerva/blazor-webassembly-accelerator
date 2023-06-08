@@ -1,0 +1,7 @@
+accelerator:
+  displayName: .Net Blazor WebAssembly
+  description: .Net Blazor WebAssembly Single Page Application with a Rest API.
+  iconUrl: https://raw.githubusercontent.com/franktylerva/blazor-webassembly-accelerator/main/BrandBlazor_nohalo_128x.png
+  tags:
+  - .Net
+  - WebAssembly
